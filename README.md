@@ -3,9 +3,7 @@
 ### Author
 Joseph Gaynier
 ### Description
-Semester project assignment for ITCS-3160
-
-
+ITCS-3160 project with frontend, backend, and database 
 ### Introduction (Team, Project Description)
 ### Use Case for Rating System
 ### Business Rules
