@@ -1,5 +1,5 @@
 
-# ITCS-3160 *By Joseph Gaynier*
+# ITCS-3160 ###*By Joseph Gaynier*
 Semester project assignment for ITCS-3160
 
 
