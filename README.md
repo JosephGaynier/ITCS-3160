@@ -1,7 +1,8 @@
 
-# ITCS-3160 ###*By Joseph Gaynier*
+# ITCS-3160
 Semester project assignment for ITCS-3160
 
+## Author: Joseph Gaynier
 
 #### Introduction (Team, Project Description)
 #### Use Case for Rating System
