@@ -14,6 +14,7 @@ ITCS-3160 project with frontend, backend, and database
 ### Stored Procedure
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dump
+
 <html><head>
 <title>Schema Report for database: campus_eats_fall2020</title>
 <style>
