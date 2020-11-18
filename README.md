@@ -15,37 +15,7 @@ ITCS-3160 project with frontend, backend, and database
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dump
 
-<html><head>
-<title>Schema Report for database: campus_eats_fall2020</title>
-<style>
-        td,th {
-        text-align:left;
-        vertical-align:middle;
-        }
-        table {
-        border-collapse: collapse;
-        border: 1px solid;
-        }
-        caption, th, td {
-        padding: .2em .8em;
-        border: 1px solid #000000;
-        }
-        caption {
-        background: #D3D3D3;
-        font-weight: bold;
-        font-size: 1.1em;
-        }
-        th {
-        font-weight: bold;
-        background: #000000;
-        color: white;
-        }
-        td {
-        background: #FFFFFF;
-        }
-        </style>
-      </head>
-     <body>
+<body>
 <h1>Schema Report for database: campus_eats_fall2020</h1>
 <a id="home">Table List </a><br /><ul>
 <li><a href="#delivery">delivery </a></li>
