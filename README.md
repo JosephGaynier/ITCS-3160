@@ -6,7 +6,7 @@ Joseph Gaynier
 ITCS-3160 project with frontend, backend, and database 
 ### Introduction (Team, Project Description)
 ### Use Case for Rating System
-![alt text](Images/UseCase.png)
+![alt text](Images/UseCase.jpeg)
 ### Business Rules
 ### EERD (full database)
 ![alt text](Images/ERD.JPG)
