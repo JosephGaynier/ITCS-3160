@@ -262,4 +262,5 @@ ITCS-3160 project with frontend, backend, and database
 <tr><td>make</td><td>VARCHAR(75)</td><td>No</td><td>No</td><td>No</td><td>NULL</td><td></td></tr>
 </table><a href="#home">Table List </a></br>
 </body></html>
+
 ### PPT Video (link)
