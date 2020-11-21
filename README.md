@@ -5,16 +5,24 @@ Joseph Gaynier
 ### Description
 ITCS-3160 project with frontend, backend, and database 
 ### Introduction (Team, Project Description)
+Team: Joseph Gaynier
+Project Description:
+The goal of this project is to take the Campus Eats Model database and add a ratings system to it.
+Customers will be able to rate drivers and restaurant.
+Customers will be able to view restaurant ratings.
+Admins will be able to view drivers and restaurant ratings.
 ### Use Case for Rating System
 ![alt text](Images/UseCase.jpg)
 ### Business Rules
+1. Customers can opt out of giving ratings
+2. Customers can view restaurant ratings
 ### EERD (full database)
 ![alt text](Images/ERD.JPG)
 ### MySQL Queries
 ### Stored Procedure
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dump
-
+### Data Dictionary
 <body>
 <h1>Schema Report for database: campus_eats_fall2020</h1>
 <a id="home">Table List </a><br /><ul>
