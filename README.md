@@ -23,7 +23,8 @@ Admins will be able to view drivers and restaurant ratings.
 ![alt text](Images/RestaurantAvgMaxMinRatingsStoredProcedure.JPG)  
 ![alt text](Images/DriverAvgMaxMinRatingsStoredProcedure.JPG)
 ### Web/App Implementation (Optional) or Description of Future Work
-### MySQL dump
+### MySQL dumps
+https://github.com/JosephGaynier/ITCS-3160/tree/main/SQL%20Dumps
 ### Data Dictionary
 <body>
 <h1>Schema Report for database: campus_eats_fall2020</h1>
