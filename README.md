@@ -19,11 +19,11 @@ Admins will be able to view drivers and restaurant ratings.
 ### EERD (full database)
 ![alt text](Images/ERD.JPG)
 ### MySQL Queries
-![alt text](Images/InsertQuery.JPG)
-![alt text](Images/RestaurantAvgMaxMinRatings.JPG)
+![alt text](Images/InsertQuery.JPG)  
+![alt text](Images/RestaurantAvgMaxMinRatings.JPG)  
 ![alt text](Images/DriverAvgMaxMinRatings.JPG)
 ### Stored Procedures
-![alt text](Images/RestaurantAvgMaxMinRatingsStoredProcedure.JPG)
+![alt text](Images/RestaurantAvgMaxMinRatingsStoredProcedure.JPG)  
 ![alt text](Images/DriverAvgMaxMinRatingsStoredProcedure.JPG)
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dump
