@@ -19,27 +19,12 @@ Admins will be able to view drivers and restaurant ratings.
 ### EERD (full database)
 ![alt text](Images/ERD.JPG)
 ### MySQL Queries
-INSERT INTO campus_eats_fall2020.ratings (  
-    driver1,  
-    driver2,  
-    driver3,  
-    restaurant1,  
-    restaurant2,  
-    restaurant3,  
-    comment,  
-    order_id  
-)  
-VALUES (  
-    1,  
-    3,  
-    5,  
-    2,  
-    4,  
-    5,  
-    "Such wonderful service",  
-    1  
-)
-### Stored Procedure
+![alt text](Images/InsertQuery.JPG)
+![alt text](Images/RestaurantAvgMaxMinRatings.JPG)
+![alt text](Images/RestaurantAvgMaxMinRatings.JPG)
+### Stored Procedures
+![alt text](Images/RestaurantAvgMaxMinRatingsStoredProcedure.JPG)
+![alt text](Images/DriverAvgMaxMinRatingsStoredProcedure.JPG)
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dump
 ### Data Dictionary
