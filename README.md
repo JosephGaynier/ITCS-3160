@@ -22,6 +22,9 @@ Admins will be able to view drivers and restaurant ratings.
 ### Advanced Queries
 ![alt text](Images/AdvancedQueryOrderBy.JPG)
 ![alt text](Images/AdvancedQueryGroupBy.JPG) 
+### Query Optimization
+# Before
+# After
 ### Stored Procedures
 ![alt text](Images/RestaurantAvgMaxMinRatingsStoredProcedure.JPG)  
 ![alt text](Images/DriverAvgMaxMinRatingsStoredProcedure.JPG)
