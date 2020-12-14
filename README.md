@@ -9,7 +9,7 @@ Customers will be able to rate drivers and restaurant.
 Customers will be able to view restaurant ratings.  
 Admins will be able to view drivers and restaurant ratings.  
 ### Use Case for Rating System
-![alt text]("Images/Use Case.jpg")
+![alt text](Images/UseCase.jpg)
 ### Business Rules
 1. Customers can opt out of giving ratings
 2. Customers can view restaurant ratings
