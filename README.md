@@ -249,5 +249,5 @@ https://github.com/JosephGaynier/ITCS-3160/tree/main/SQL%20Dumps
 <tr><td>make</td><td>VARCHAR(75)</td><td>No</td><td>No</td><td>No</td><td>NULL</td><td></td></tr>
 </table><a href="#home">Table List </a></br>
 </body></html>
-
-### PPT Video (link)
+### YouTube Link
+https://youtu.be/v4BGAEsWxoI
