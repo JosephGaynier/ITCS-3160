@@ -30,6 +30,8 @@ Admins will be able to view drivers and restaurant ratings.
 ### Web/App Implementation (Optional) or Description of Future Work
 ### MySQL dumps
 https://github.com/JosephGaynier/ITCS-3160/tree/main/SQL%20Dumps
+### YouTube Link
+https://youtu.be/v4BGAEsWxoI
 ### Data Dictionary
 <body>
 <h1>Schema Report for database: campus_eats_fall2020</h1>
@@ -249,5 +251,3 @@ https://github.com/JosephGaynier/ITCS-3160/tree/main/SQL%20Dumps
 <tr><td>make</td><td>VARCHAR(75)</td><td>No</td><td>No</td><td>No</td><td>NULL</td><td></td></tr>
 </table><a href="#home">Table List </a></br>
 </body></html>
-### YouTube Link
-https://youtu.be/v4BGAEsWxoI
