@@ -1,6 +1,5 @@
 
 # ITCS-3160
-ITCS-3160 project with frontend, backend, and database 
 ### Introduction (Team, Project Description)
 Team: Joseph Gaynier  
 Project Description:  
